@@ -1,0 +1,10 @@
+* stumpwm
+
+The Stump Window Manager
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/stumpwm/stumpwm.git   |
+| commit  | 9072f22  |
+| systems | stumpwm |
+|---------+-------------------------------------------|
+

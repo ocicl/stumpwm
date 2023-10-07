@@ -4,6 +4,6 @@ The Stump Window Manager
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/stumpwm/stumpwm.git |
-| commit  | 59fe036                                    |
+| commit  | 2d14cb2                                    |
 | systems | stumpwm                                    |
 |---------+--------------------------------------------|

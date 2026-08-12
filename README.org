@@ -7,3 +7,4 @@ The Stump Window Manager
 | commit  | a8196db                                    |
 | systems | stumpwm                                    |
 |---------+--------------------------------------------|
+ 
